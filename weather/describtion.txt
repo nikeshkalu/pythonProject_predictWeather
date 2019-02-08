@@ -1,0 +1,1 @@
+In this application, The weather of certain city is predicted using flask and SQLAlchemy with the help of api(openweathermap).
